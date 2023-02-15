@@ -1,0 +1,10 @@
+
+POST http://localhost:3333/alcaldia/registrar-perfil
+Content-Type: application/json
+
+{
+  "codigo_perfil": "04",
+  "codigo_usuario": "1231411",
+  "nombre_perfil": "usuario prueba 2",
+  "fecha_creacion": "2023-02-07"
+}
